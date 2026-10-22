@@ -2,7 +2,7 @@
 
 **Learning archive · Go/backend development · Systems thinking**
 
-[Русская версия / Russian-language companion](https://github.com/ernat-soltanbekov/AH-project-RU)
+[Русская версия / Russian-language companion](https://github.com/GhostOfAstana/AH-project-RU)
 
 ## About me
 
