@@ -6,7 +6,9 @@
 
 ## About me
 
-I'm **Ernat Soltanbekov**, based in Astana, Kazakhstan. I hold a bachelor's degree in **Geodesy and Cartography** from Karaganda State Technical University and previously served as an officer in Astana's civil defense administration (2017–2020).
+I'm **Ernat Soltanbekov**, based in Astana, Kazakhstan. I hold a bachelor's degree in **Geodesy and Cartography** from Karaganda State Technical University.
+
+**Former Military Officer, Senior Lieutenant**. Place of military service, 2017–2020: the Civil Defence Directorate of the Astana Department for Emergency Situations (Управление гражданской обороны ДЧС Астаны).
 
 In 2026, I passed the **Tomorrow School Piscine** and entered its main 01-Edu learning program in the Astana Hub ecosystem. My current technical priority is **Go and backend development**, alongside daily English practice.
 

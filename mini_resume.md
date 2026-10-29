@@ -4,7 +4,7 @@
 I am building a transition into the IT field with a focus on support, operations, and coordination roles.
 
 ## Background
-I have a background in military service, which gave me strong discipline, responsibility, and the ability to work under pressure.
+**Former Military Officer, Senior Lieutenant**. My military service gave me strong discipline, responsibility, and the ability to work under pressure.
 
 ## Strengths
 - Process discipline
